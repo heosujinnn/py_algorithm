@@ -1,3 +1,1 @@
-print("helloworld")
-
-print("\"c:|Downlooad|\'hello \t world\'.py\"")
+print("\"c:\\Downlooad\\\'hello \t world\'.py\"")
