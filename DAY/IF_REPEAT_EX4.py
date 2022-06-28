@@ -10,16 +10,16 @@ for i in range(1,a+1):
         
 print(sum)
         
-# 문제  2 : 영문 소문자 q가 입력될 까지 입력 문자를 무한 출력하시오.
+# 문제2 : 영문 소문자 q가 입력될 까지 입력 문자를 무한 출력하시오.
 # While 문과 if문 활용
 
 while True:
     a=str(input("문자 입력>"))
     if a=='q':
         break
+        
     else:
         print(a)
-
 
 
 
