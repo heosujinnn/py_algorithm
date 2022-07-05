@@ -14,8 +14,15 @@
 
 # DAY3
 [소스 코드 : TIME_TEST.PY 실행 완료](https://github.com/heosujinnn/python2/commit/8d438822906352c914c522fa375617c2019e989d) 
+
 [소스 코드 : CURRENCY.PY 실행 완료](https://github.com/heosujinnn/python2/commit/ee2e34b33670c53e61824b9f776676a736407514) 
 
 [소스 코드 : PLEASE.py 실행 완료](https://github.com/heosujinnn/python2/commit/c0230120e6b52fc940f328f46e8b7b0e4a63cc35) 
+
 [소스 코드 : 1_PLEASE_EX1.py 실행 완료](https://github.com/heosujinnn/python2/commit/39f27aa268c9cc274f7db9cb7f77969821acafbd) 
 
+# DAY6
+[소스 코드 : DFS_EX1.PY, BFD_EX2.py 실행 완료](https://github.com/heosujinnn/python2/commit/0a99ab22650ea58dc5c3bf99a4ad53211d88e389#diff-fba8c8193a662316f7d22176a0825f25df7e8d5458fa9ad25524603e8f4042f9) 
+
+# DAY7
+[소스 코드 : QUICK_COMPARISON_EX1.pypy 실행 완료](https://github.com/heosujinnn/python2/commit/cc75c62e9fd1ec381b718303b81189312989cfc7) 
