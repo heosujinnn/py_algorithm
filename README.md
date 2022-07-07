@@ -25,4 +25,8 @@
 [소스 코드 : DFS_EX1.PY, 소스 코드 : BFD_EX2.py 실행 완료](https://github.com/heosujinnn/python2/commit/0a99ab22650ea58dc5c3bf99a4ad53211d88e389#diff-fba8c8193a662316f7d22176a0825f25df7e8d5458fa9ad25524603e8f4042f9) 
 
 # DAY7
-[소스 코드 : QUICK_COMPARISON_EX1.pypy 실행 완료](https://github.com/heosujinnn/python2/commit/cc75c62e9fd1ec381b718303b81189312989cfc7) 
+[소스 코드 : QUICK_COMPARISON_EX1.py 실행 완료](https://github.com/heosujinnn/python2/commit/cc75c62e9fd1ec381b718303b81189312989cfc7) 
+
+# DAY9
+[소스 코드 : PRIME_STRING_EX1.py 실행 완료](https://github.com/heosujinnn/python2/commit/2c46ceca744e315ab3aa984898b13d73b221169b) 
+
