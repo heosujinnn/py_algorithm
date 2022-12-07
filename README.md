@@ -1,5 +1,5 @@
-# python2
-파이썬 공부 
+# 파이썬 알고리즘
+😄백준 파이썬 알고리즘😄 
 # DAY
 [소스 코드 : HELLOWORLD.PY 실행 완료](https://github.com/heosujinnn/python2/blob/main/DAY/HELLOWORLD.py) 
 
